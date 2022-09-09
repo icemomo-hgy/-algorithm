@@ -5,6 +5,7 @@ import java.util.Scanner;
 //循环队列的实现！
 public class demo {
     public static void main(String[] args) {
+
         queue queue = new queue(String.class,4);
       while (true){
           System.out.println("1 加入一个队列元素");
