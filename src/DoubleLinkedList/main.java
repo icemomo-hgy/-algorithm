@@ -1,7 +1,5 @@
 package DoubleLinkedList;
-
 import org.junit.jupiter.api.Test;
-
 public class main {
     public static void main(String[] args) {
         Node n1 = new Node(1,"老大");
